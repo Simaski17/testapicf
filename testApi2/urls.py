@@ -29,4 +29,4 @@ router.register('api',views.EmployeeCRUDCBV)
 urlpatterns = [
     url('admin/', admin.site.urls),
     url(r'', include(router.urls)),
-] +static(settings.STATIC_URL, document_root=settomgs.STATIC_ROOT)
+] +static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
