@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ae2aa05-daef-4101-be94-afa6e12fc0d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testApi2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/testApi2/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testApi2/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -76,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -102,11 +98,11 @@
       <list>
         <option value="$PROJECT_DIR$/testApi2/settings.py" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/testapp/models.py" />
         <option value="$PROJECT_DIR$/testapp/serializers.py" />
         <option value="$PROJECT_DIR$/testapp/admin.py" />
         <option value="$PROJECT_DIR$/testapp/views.py" />
         <option value="$PROJECT_DIR$/testApi2/urls.py" />
+        <option value="$PROJECT_DIR$/testapp/models.py" />
       </list>
     </option>
   </component>
@@ -200,12 +196,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567006522240</updated>
-      <workItem from="1567006523495" duration="6439000" />
+      <workItem from="1567006523495" duration="6736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6439000" />
+    <option name="totallyTimeSpent" value="6736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="960" height="1057" extended-state="0" />
@@ -248,13 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testApi2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1898">
@@ -293,6 +282,13 @@
           <folding>
             <element signature="e#632#664#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>

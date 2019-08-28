@@ -17,4 +17,4 @@ class Users(models.Model):
     email = models.CharField(max_length=300, blank=True, null=True)
     telefono = models.CharField(max_length=300, blank=True, null=True)
     rut = models.CharField(max_length=64, blank=True, null=True)
-    accepterms = models.BooleanField(default=False, blank=True, null=True)
+    accepterms = models.BooleanField(default=False)
